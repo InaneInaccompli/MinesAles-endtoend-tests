@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="test.geo.test"
+    errors="0" failures="0" hostname="" id="" package="geo.test" skipped="0"
+    tests="1" time="4.203" timestamp="">
+  
+    <testcase name="Test de la page géolocalisation" classname="test.geo.test" time="2.099" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="test.feedback.test"
+    errors="0" failures="0" hostname="" id="" package="feedback.test" skipped="0"
+    tests="1" time="7.434" timestamp="">
+  
+    <testcase name="Test de la page avis" classname="test.feedback.test" time="3.715" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
